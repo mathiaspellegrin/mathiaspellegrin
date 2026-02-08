@@ -1,23 +1,28 @@
-## Hi, I'm Mathias 👋
+## Hi, I’m Mathias 👋
 
-I'm an independent protocol & infrastructure engineer working through
-bounties, research, and selective fixed-scope engagements.
+Independent **protocol & infrastructure engineer**  
+working through *bounties*, *research*, and *selective fixed-scope engagements*.
 
-### What I work on
-- Smart contracts (EVM, cross-chain systems)
-- Gasless / relayer architectures
-- Blockchain listeners & indexers
-- Backend systems (auth, APIs)
-- DevOps (Docker, VPS, infra)
+---
+
+### Focus
+Smart contracts (EVM, cross-chain) · On-chain protocols ·  
+Gasless architectures · Blockchain indexers · Backend systems · Infrastructure
+
+---
 
 ### Proof of work
-- Accepted protocol bounties (Conflux ecosystem)
-- Hackathon projects
-- Open-source tooling & smart contracts
+- 🏆 Accepted protocol bounties (Conflux ecosystem)
+- Hackathon projects (protocol & infra)
+- Open-source tooling and reference implementations
+- Selected private work documented externally
+
+---
 
 ### How I work
-- Fixed scope
-- Production-oriented
-- Documentation + clean delivery
+> Fixed scope · production-oriented · documented systems
 
-> For enterprise contracting and invoicing: MBP Enterprises Ltd
+---
+
+Enterprise contracting & invoicing: **MBP Enterprises Ltd**  
+🔗 https://mbp-enterprises.com
