@@ -1,28 +1,11 @@
-## Hi, I’m Mathias 👋
+## Mathias Pellegrin
 
-Independent **protocol & infrastructure engineer**  
-working through *bounties*, *research*, and *selective fixed-scope engagements*.
+Backend engineer in Brussels. TypeScript, Node.js, SQL.
 
----
+- **Smarteaming**: B2B scheduling SaaS I built and have run alone since 2020 (private).
+- **Chain-Fi**: CTO, 2024–2026. Wrote the OAuth 2.0 server, the backend API and the JavaScript SDK (private).
+- **Hackathons**: winner of Conflux Global Hackfest 2026 ([GigShield](https://github.com/mathiaspellegrin/GigShield)) and Conflux Summer Hackfest 2025 ([FluxSub](https://github.com/mathiaspellegrin/FluxSub)); second place at Conflux AI Agent Hackathon 2025 ([FluxPad](https://github.com/mathiaspellegrin/fluxpad)).
 
-### Focus
-Smart contracts (EVM, cross-chain) · On-chain protocols ·  
-Gasless architectures · Blockchain indexers · Backend systems · Infrastructure
+Stack: TypeScript, Node.js, MySQL, PostgreSQL, MongoDB, Redis, Docker, Linux.
 
----
-
-### Proof of work
-- 🏆 Accepted protocol bounties (Conflux ecosystem)
-- Hackathon projects (protocol & infra)
-- Open-source tooling and reference implementations
-- Selected private work documented externally
-
----
-
-### How I work
-> Fixed scope · production-oriented · documented systems
-
----
-
-Enterprise contracting & invoicing: **MBP Enterprises Ltd**  
-🔗 https://mbp-enterprises.com
+Looking for a full-time remote backend role · [Portfolio](https://mbp-enterprises.com) · [LinkedIn](https://www.linkedin.com/in/mathiasp-793332239/)
