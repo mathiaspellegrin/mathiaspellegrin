@@ -8,4 +8,4 @@ Backend engineer in Brussels. TypeScript, Node.js, SQL.
 
 Stack: TypeScript, Node.js, MySQL, PostgreSQL, MongoDB, Redis, Docker, Linux.
 
-Looking for a full-time remote backend role · [Portfolio](https://mbp-enterprises.com) · [LinkedIn](https://www.linkedin.com/in/mathiasp-793332239/)
+Looking for a full-time remote backend role · [Portfolio](https://mbp-enterprises.com) · [LinkedIn](www.linkedin.com/in/mathias-p-793332239)
